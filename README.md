@@ -1,7 +1,7 @@
 # SeattleAirBnbDataAnalysis
 AirBnB-Seattle-Data-Analysis and Price-Prediction-
 Medium.com Link for the story-
-https://rohailkhan11.medium.com/data-analysis-of-airbnb-hosts-in-seattle-a834cb95a2050
+https://rohailkhan11.medium.com/?p=a834cb95a205
 
 We will try to Answer some common Customer based question and finally try to create a good model to predict price for a future listing.
 
